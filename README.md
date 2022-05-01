@@ -20,11 +20,11 @@
   [meu projeto](https://jasmg2002.github.io/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/)
   
 <h2>Tecnologias utilizadas</h2>
-<div text-align="center">
+<div text-align:"center">
   <img width=220px height=160px src="./image/html_css.jpg">
   <span>HTML E CSS</span>
 </div> 
-<div text-align="center">
+<div text-align:"center">
   <img width=300px height=160px src="./image/mailchimp.jpg">
   <span>MAILCHIMP</span>
 </div>
