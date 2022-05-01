@@ -22,4 +22,7 @@
 <img width=300px height=160px src="./image/mailchimp.jpg">
 
 <h2>Autor</h2>
-<img width=160px height=160px src="./image/minha_foto.jpg">
+<picture>
+  <img width=160px height=160px src="./image/minha_foto.jpg" vaue=>
+  <p>João Alexandre</p>
+</picture>
