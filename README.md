@@ -21,12 +21,12 @@
   
 <h2>Tecnologias utilizadas</h2>
 <div>
-  <img width=220px height=160px src="./image/html_css.jpg">
-  <span align="center">HTML E CSS</span>
+  <img width=220px height=160px src="./image/html_css.jpg"><br>
+  <span>HTML E CSS</span>
 </div> 
 <div>
-  <img width=300px height=160px src="./image/mailchimp.jpg">
-  <span align="center">MAILCHIMP</span>
+  <img width=300px height=160px src="./image/mailchimp.jpg"><br>
+  <span>MAILCHIMP</span>
 </div>
 
 <h2>Autor</h2>
