@@ -1,13 +1,13 @@
 <h1 align="center">  Página de Captura(Landing-Page) - Palestra Sobre Artes Marciais </h1>
 
-<h2>Descrição:</h2>
+<h2>Descrição</h2>
 <p>A Página de captura(landing page) foi criado para captar o contato do potencial cliente(lead), esse potencial cliente deixe as informações de contato, por exemplo, nome, email e estado(lugar), a página em si deve estar oferecendo informações interessantes ao cliente.</p><br>
 
 <img src="https://github.com/Jasmg2002/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/blob/main/image/photoPage.JPG">
 
 <h2 color=green >Projeto Finalizado.</h2><br>
 
-<h2>Como Funciona:</h2>
+<h2>Como Funciona</h2>
   <h3> Funcionalidade 1:</h3>
     <p></p>
   <h3> Funcionalidade 2:</h3>
