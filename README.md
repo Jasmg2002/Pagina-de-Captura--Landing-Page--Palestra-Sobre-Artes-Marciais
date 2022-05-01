@@ -28,3 +28,8 @@
   <span>João Alexandre</span>
 </di>
 
+<style>
+div{
+  text-align: center;
+  }
+</style>
