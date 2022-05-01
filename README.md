@@ -10,9 +10,9 @@
 <h2>Como Funciona</h2>
     <p>Já fiz o cadastro no mailchimp e integrei à página html;</p>
     <p>Ele/Ela ver as informações da página e depois insere o nome, email e o estado(lugar) e aperta no botão inscreva-se;</p>
-    <p>Ao apertar no botão ele/ela é redirecionado página do mailchip confirmando a inscrição;</p>
+    <p>Ao apertar no botão ele/ela é redirecionado a página do mailchip confirmando a inscrição;</p>
     <p>Captando os contatos dos clientes no mailchimp, posso criar e editar minhas mensagens;</p>
-    <p>Mensagem criada, seleciono os contatos é envio para eles/elas;</p>
+    <p>Mensagem criada, seleciono os contatos e envio para eles/elas;</p>
     <p>PRONTO.</p>
 
 <h2>Acesso ao Projeto</h2>
