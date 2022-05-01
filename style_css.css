@@ -1,0 +1,121 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Arial;
+	background: black;
+}
+.container{
+	max-width: 1000px;
+	margin: auto;
+}
+header{
+	background: #ee2020;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+.title{
+	font-size: 25px;
+}
+section{
+	padding: 20px;
+	background-image: url("./image/photoPeople.jpg");
+	background-size: cover;
+	overflow: hidden;
+}
+.section-container{
+	max-width: 230px;
+	background: #ffffffBB;
+	padding: 20px;
+	float: right;
+}
+h2{
+	font-size: 20px;
+}
+.mb{
+	margin-bottom: 25px;
+}
+input, select{
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10px;
+	border: none;
+}
+input[type="submit"]{
+	color: white;
+	background-color: #ee2020;
+	font-weight: ;
+}
+input[type="submit"]:hover{
+	color: white;
+	background-color: #fb0e0e;
+	font-weight: ;
+}
+footer{
+	padding: 40px;
+	background: #1A1A1A;
+	text-align: center;
+}
+.picture{
+	width: 160px;
+}
+.description{
+	color: white;
+	display: inline-block;
+	max-width: 40%;
+	margin-left: 40px;
+	text-align: left;
+}
+.description p, .description h3{
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 400px){
+	.section-container{
+	max-width: 230px;
+	background: #ffffffBB;
+	padding: 45px;
+	float: right;
+	}
+	footer{
+	padding: 0;
+	background: #1A1A1A;
+	text-align: center;
+	}
+	.picture{
+		width: 120px;
+		padding: 20px;
+	}
+	.description{
+		color: white;
+		display: inline-block;
+		max-width: 70%;
+		margin-left:15px;
+		text-align: left;
+		margin-bottom: 40px;
+	}
+	.description p, .description h3, .picture{
+		margin-bottom: 15px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
