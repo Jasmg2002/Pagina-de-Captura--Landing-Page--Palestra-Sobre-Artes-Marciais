@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Jasmg2002/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/blob/main/image/photoPage.JPG">
 
-<h2 color="green">Projeto Finalizado.</h2><br>
+<h2 color=green >Projeto Finalizado.</h2><br>
 
 <h2>Como Funciona:</h2>
   <h3> Funcionalidade 1:</h3>
