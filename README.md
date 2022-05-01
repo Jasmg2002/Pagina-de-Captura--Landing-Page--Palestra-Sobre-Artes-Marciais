@@ -1,5 +1,8 @@
 <h1 align="center">  Página de Captura(Landing-Page) - Palestra Sobre Artes Marciais </h1>
 
+<head>
+<style></style>
+</head>
 <h2>Descrição:</h2>
 <p>O Projeto de Página de Captura(Landing Page) foi criado com objetivo de adentrar no mercado de trabalho e aperfeiçoar minhas habilidades técnicas em DESENVOLVIMENTO WEB e WEB DESIGN.</p><br>
 
@@ -27,9 +30,3 @@
   <br>
   <span>João Alexandre</span>
 </di>
-
-<style>
-div{
-  text-align: center;
-  }
-</style>
