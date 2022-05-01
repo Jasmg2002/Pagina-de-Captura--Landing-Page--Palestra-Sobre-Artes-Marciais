@@ -8,10 +8,16 @@
 <h2 color="green">Projeto Finalizado.</h2><br>
 
 <h2>Como Funciona:</h2>
-  <3> Funcionalidade 1: </3>
-  <3> Funcionalidade 2:</3>
-  <3> Funcionalidade 3:</3>
+  <h3> Funcionalidade 1:</h3>
+    <p></p>
+  <h3> Funcionalidade 2:</h3>
+    <p></p>
+  <h3> Funcionalidade 3:</h3>
+    <p></p>
 
 <h2>Acesso ao Projeto</h2>
   [meu projeto](https://jasmg2002.github.io/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/)
-<h2></h2>
+<h2>Tecnologias utilizadas</h2>
+
+<h2>Autor</h2>
+<img src="">
