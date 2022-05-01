@@ -18,8 +18,8 @@
 <h2>Acesso ao Projeto</h2>
   [meu projeto](https://jasmg2002.github.io/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/)
 <h2>Tecnologias utilizadas</h2>
-<img width=160px height=200px src="./image/html_css.jpg">
-<img width=230px height=160px src="./image/mailchimp.jpg">
+<img width=160px height=160px src="./image/html_css.jpg">
+<img width=270px height=160px src="./image/mailchimp.jpg">
 
 <h2>Autor</h2>
 <img width=160px height=160px src="./image/minha_foto.jpg">
