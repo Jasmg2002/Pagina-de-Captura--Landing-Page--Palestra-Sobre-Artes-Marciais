@@ -1,4 +1,4 @@
-<h1 align="center">  Pagina de Captura (Landing-Page) - Palestra Sobre Artes Marciais </h1>
+<h1 align="center">  Página de Captura(Landing-Page) - Palestra Sobre Artes Marciais </h1>
 
 <h2>Descrição:</h2>
 <p>O Projeto da Página de Captura(Landing Page) foi criado com objetivo de Adentrar no mercado de trabalho aperfeiçoar minhas habilidades Técnica em Desenvolvimento WEB.</p><br>
@@ -18,6 +18,7 @@
 <h2>Acesso ao Projeto</h2>
   [meu projeto](https://jasmg2002.github.io/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/)
 <h2>Tecnologias utilizadas</h2>
+ 
 
 <h2>Autor</h2>
 <img width=160px height=160px src="./image/minha_foto.jpg">
