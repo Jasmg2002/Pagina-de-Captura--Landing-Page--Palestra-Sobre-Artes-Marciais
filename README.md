@@ -25,6 +25,6 @@
 <div>
   <img width=160px height=160px src="./image/minha_foto.jpg" vaue=>
   <br>
-  <span font-family="Arial">João Alexandre</span>
+  <span>João Alexandre</span>
 </di>
   
