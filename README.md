@@ -8,10 +8,10 @@
 <h2 color="green">Projeto Finalizado.</h2><br>
 
 <h2>Como Funciona:</h2>
-  <3>Primerira Funcionalidade: </3>
-  <3></3>
-  <3></3>
+  <3> Funcionalidade 1: </3>
+  <3> Funcionalidade 2:</3>
+  <3> Funcionalidade 3:</3>
 
-<h2></h2>
-
+<h2>Acesso ao Projeto</h2>
+  [meu projeto]()
 <h2></h2>
