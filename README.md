@@ -20,4 +20,4 @@
 <h2>Tecnologias utilizadas</h2>
 
 <h2>Autor</h2>
-<img src="./image/minha_foto.jpg">
+<img width=160px height=160px src="./image/minha_foto.jpg">
