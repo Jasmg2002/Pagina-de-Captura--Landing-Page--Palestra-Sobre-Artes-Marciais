@@ -23,6 +23,8 @@
 <div>
   <img width=220px height=160px src="./image/html_css.jpg">
   <span>HTML E CSS</span>
+</div> 
+<div>
   <img width=300px height=160px src="./image/mailchimp.jpg">
   <span>MAILCHIMP</span>
 </div>
