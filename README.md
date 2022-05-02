@@ -13,6 +13,7 @@
     <p>Ao apertar no botão ele/ela é redirecionado a página do mailchip confirmando a inscrição;</p>
     <p>Salvando os contatos dos clientes no mailchimp, posso criar e editar minhas mensagens;</p>
     <p>Mensagem criada, seleciono os contatos e envio para eles/elas;</p>
+    <p>Infelizmente as mensagens aparecem no spam, mas é um bom começo para pesquisar outros meios de automatização e melhorar as Landing Pages</p>;
     <p>PRONTO.</p>
 
 <h2>Acesso ao Projeto</h2>
