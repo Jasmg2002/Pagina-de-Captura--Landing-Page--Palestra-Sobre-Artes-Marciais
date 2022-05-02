@@ -1,7 +1,7 @@
 <h1 align="center">  Página de Captura(Landing-Page) - Palestra Sobre Artes Marciais </h1>
 
 <h2>Descrição</h2>
-<p>A Página de captura(landing page) foi criado para captar o contato do potencial cliente(lead), esse potencial cliente deixe as informações de contato, por exemplo, nome, email e estado(lugar), a página em si deve estar oferecendo informações interessantes ao cliente. Tudo isso integrado com o sistema MAILCHIMP, é uma ferramenta de email marketing  que permite listar contatos e fazer envios automatizados</p><br>
+<p>A Página de captura(landing page) foi criado para captar o contato do potencial cliente(lead), esse potencial cliente deixa as informações de contato, por exemplo, nome, email e estado(lugar), a página em si deve estar oferecendo informações interessantes ao cliente. Tudo isso integrado com o sistema MAILCHIMP, é uma ferramenta de email marketing  que permite listar contatos e fazer envios automatizados</p><br>
 
 <img src="https://github.com/Jasmg2002/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/blob/main/image/photoPage.JPG">
 
@@ -11,7 +11,7 @@
     <p>Já fiz o cadastro no mailchimp e integrei à página html;</p>
     <p>Ele/Ela ver as informações da página e depois insere o nome, email e o estado(lugar) e aperta no botão inscreva-se;</p>
     <p>Ao apertar no botão ele/ela é redirecionado a página do mailchip confirmando a inscrição;</p>
-    <p>Captando os contatos dos clientes no mailchimp, posso criar e editar minhas mensagens;</p>
+    <p>Salvando os contatos dos clientes no mailchimp, posso criar e editar minhas mensagens;</p>
     <p>Mensagem criada, seleciono os contatos e envio para eles/elas;</p>
     <p>PRONTO.</p>
 
