@@ -18,6 +18,7 @@
 
 <h2>Acesso ao Projeto</h2>
 <p>Obs: As informações postas na página são fictícias.</p>
+
 [meu projeto](https://jasmg2002.github.io/Pagina-de-Captura--Landing-Page--Palestra-Sobre-Artes-Marciais/)
    
 <h2>Tecnologias utilizadas</h2>
