@@ -31,5 +31,5 @@
   <span>MAILCHIMP</span>
 </div>
 
-### Projeto inspirado curso do programadorBR, no qual ensinou a criar landing page sem o uso de Flexbox e Grid
+### Projeto inspirado no curso de Front-End do programadorBR, no qual ensinou a criar uma landing page sem o uso de Flexbox e Grid.
   
