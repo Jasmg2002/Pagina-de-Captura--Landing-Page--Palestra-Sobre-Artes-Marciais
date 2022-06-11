@@ -31,10 +31,5 @@
   <span>MAILCHIMP</span>
 </div>
 
-<h2>Autor</h2>
-<div>
-  <img width=160px height=160px src="./image/minha_foto.jpg">
-  <br>
-  <span>João Alexandre</span>
-</di>
+### Projeto inspirado curso do programadorBR, no qual ensinou a criar landing page sem o uso de Flexbox e Grid
   
